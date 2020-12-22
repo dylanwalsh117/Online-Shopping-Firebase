@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "381752178241",
+    "project_id": "project2-dylan-walsh",
+    "storage_bucket": "project2-dylan-walsh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381752178241:android:523006e374a7fd951eb8c0",
+        "android_client_info": {
+          "package_name": "com.example.project2_dylan_walsh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381752178241-jhhcqqlufi0vld9vvejv3g617kpfvopc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOewDZQ_Wm62BNYJ1hFncgJyGqbpci1S4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381752178241-jhhcqqlufi0vld9vvejv3g617kpfvopc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

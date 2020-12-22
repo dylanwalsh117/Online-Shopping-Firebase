@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="Signing in"
+        android:id="@+id/Signing_in"
+        app:showAsAction="never"></item>
+    <item
+        android:title="Open basket"
+        android:id="@+id/Open_basket"
+        app:showAsAction="never"></item>
+    <item
+        android:title="Go to home page"
+        android:id="@+id/Go_to_home_page"
+        app:showAsAction="never"></item>
+
+
+</menu>
